@@ -45,7 +45,7 @@ def load_dict_smileys():
         "=]":"smiley",
         "=)":"smiley",
         ":-))":"smiley",
-        ":‑D":"smiley",
+        ":‑D":"joy",
         "8‑D":"smiley",
         "x‑D":"smiley",
         "X‑D":"smiley",
